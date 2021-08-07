@@ -1,0 +1,47 @@
+css can be used in the 2 types:-
+1) internally - inside the html code it self 
+2) externallly - or outside the code by linking it with html code 
+
+internally
+
+css should be coded in the head pard of html code 
+syntax:-
+<style>
+                   ---body of css code
+</style>
+
+body:-
+we call everything directly by there name as given 
+example:-
+if we want to beutify h1 heading
+syntax:-
+h1{
+    ----- it the body where we add everything which we want to add like-- background-color , color , text align , etc...
+}
+
+
+we can also use the name for any thing so that se can call it personally so that we gives them name 
+
+
+tags in HTML:-
+1)heading tags 
+syntax-
+<h1> 
+                  -----code body that we have to show
+</h1>
+it is of 6 type- h1, h2, h3, h4, h5, h6
+
+
+2)link tag
+syntax:-
+<a href="___link address complete_____">
+                --- here we write the line which we want to show on the site to click on
+</a>
+
+
+3)image tags
+syntax:-
+<img src="_____location address_____">        ------src represent source
+
+4)
+
